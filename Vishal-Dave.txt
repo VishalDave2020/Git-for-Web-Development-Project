@@ -47,4 +47,4 @@ Stretch Questions
     4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? They are rectangular boxes that are generated for elements. Flexbox.
 
-    
+    Part 2 Codepen CSS/HTML practice: https://codepen.io/Vishald1/pen/vYEaJev?editors=1100 
